@@ -9,8 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "css-loader": "^3.2.0",
-    "html-loader": "^0.5.5",
+    "css-loader": "^6.7.3",
+    "html-loader": "^4.2.0",
     "style-loader": "^1.0.0"
   }
 }
